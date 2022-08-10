@@ -1,3 +1,3 @@
-# crosstab
+# Crosstabs Generator
 
 url link
